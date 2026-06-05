@@ -2,7 +2,7 @@
 
 ## 📊 Customer Behavior Dashboard
 
-![Customer Behavior Dashboard](assets/dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
